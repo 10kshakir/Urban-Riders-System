@@ -3,6 +3,6 @@
 ## to run this project write 
 ```
   python main.py
- ```
- ##on your terminal
+```
+##on your terminal
  
